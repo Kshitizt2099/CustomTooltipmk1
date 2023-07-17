@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CustomTooltipmk1/static/css/main.054650c0.css",
+    "main.js": "/CustomTooltipmk1/static/js/main.66ac00b4.js",
+    "index.html": "/CustomTooltipmk1/index.html",
+    "main.054650c0.css.map": "/CustomTooltipmk1/static/css/main.054650c0.css.map",
+    "main.66ac00b4.js.map": "/CustomTooltipmk1/static/js/main.66ac00b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.054650c0.css",
+    "static/js/main.66ac00b4.js"
+  ]
+}
