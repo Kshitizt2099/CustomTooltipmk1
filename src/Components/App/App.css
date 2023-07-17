@@ -1,0 +1,29 @@
+.Main{
+    border: 10px solid #564d4d;
+    width: 100%;
+    height: 100vh;
+    
+    display: flex;
+    flex-direction: column;
+    align-items:center ;
+    justify-content: space-evenly;
+    background-color:#564d4d
+}
+
+
+.radios{
+    border: 10px solid #831010;
+    border-radius: 15px;
+    color: white;
+    padding: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+    width: 10%;
+    background-color: black;
+}
+.radios span{
+    display: inline;
+}
