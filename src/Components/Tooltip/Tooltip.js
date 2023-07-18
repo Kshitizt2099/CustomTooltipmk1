@@ -5,7 +5,7 @@ const Tooltip = (props) => {
     <div>
        
        <div className='tooltip_container'>
-          <p style={{cursor:'pointer', textDecoration:'underline'}}>Please Hover me</p>
+          <p style={{cursor:'pointer'}}>Please Hover me</p>
          {
           //Conditional Rendering for position of tooltip alert 
        props.pos==="top"? 
